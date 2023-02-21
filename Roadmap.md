@@ -13,5 +13,3 @@
 2. Notepad (college ruled)
 3. Bullet journal
 4. Blank Sheet
-
-![Jot-Prototype](https://www.tldraw.com/)
